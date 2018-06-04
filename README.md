@@ -10,3 +10,7 @@ https://www.youtube.com/watch?v=J1pViMfR7RA
 
 
 mysql workbench tutorial
+
+
+Spring autocreate project
+http://start.spring.io/
