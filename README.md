@@ -14,3 +14,7 @@ mysql workbench tutorial
 
 Spring autocreate project
 http://start.spring.io/
+
+
+
+SELECT DISTINCT(EmployeeID) FROM Employees ORDER BY EmployeeID desc LIMIT (N-1),1
