@@ -18,3 +18,8 @@ http://start.spring.io/
 
 
 SELECT DISTINCT(EmployeeID) FROM Employees ORDER BY EmployeeID desc LIMIT (N-1),1
+
+
+
+Upload ulti file spring mvc
+https://www.mkyong.com/spring-mvc/spring-mvc-file-upload-example/
